@@ -3,4 +3,4 @@
 bin
 .settings
 .metadata/
-.recommenders
+.recommenders/cache
